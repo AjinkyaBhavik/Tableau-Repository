@@ -1,2 +1,2 @@
 # Tableau-Repository
-Analysis of tableau datasets
+Analysis of datasets in Tableau
